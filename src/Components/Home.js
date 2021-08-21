@@ -7,7 +7,7 @@ import QuickSearches from './QuickSearches';
 
 const constants = require('../constants');
 const API_URL = constants.API_URL;
-
+/*abcd*/
 export default class Home extends Component {
 
     constructor() {
